@@ -30,14 +30,14 @@ The package is composed of:
 	Lodash - Utilities for JS.
 	webpack - Bundles scripts to be used in the browser.
 
-One might want to remove lodash if it's not going to be used.
-```
-npm uninstall --save lodash
-``` 
-
 ## Observations
 
 ```js
 // Bundle/Pack the project
 npm run build
 ```
+
+One might want to remove lodash if it's not going to be used.
+```
+npm uninstall --save lodash
+``` 
