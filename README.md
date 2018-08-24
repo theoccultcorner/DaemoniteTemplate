@@ -30,8 +30,7 @@ The package is composed of:
 	Lodash - Utilities for JS.
 	webpack - Bundles scripts to be used in the browser.
 
-Lodash is most likely the one to be removed. Just run
-
+One might want to remove lodash if it's not going to be used.
 ```
 npm uninstall --save lodash
 ``` 
