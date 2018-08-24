@@ -5,7 +5,7 @@ Make your webpages beautiful!
 
 ## General Information
 
-This package is a template webpage for new project.
+This package is a template webpage for new projects.
 
 	Remember to run 'npm install'.
 	This is required to install project dependencies.
